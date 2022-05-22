@@ -1,0 +1,41 @@
+.container{
+    border:2px;
+    
+    height:800px
+}
+
+.box{
+    display:inline-block;
+            border: 2px solid black;
+            width: 150px;
+            height:40px;
+            margin:260px;
+        
+}
+#box2{
+    position:absolute;
+    
+    
+    
+    
+    
+}
+
+body{
+    background-color: powderblue;
+}
+h1{
+    color:blue;
+    text-align: center;
+    font-size: 250%;
+}
+p{
+    color:red;
+    border: 2px solid red;
+    padding:30px;
+    margin: 50px;
+}
+
+
+
+          
